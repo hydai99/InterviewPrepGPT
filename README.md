@@ -1,7 +1,7 @@
 # InterviewPrepGPT: A tool to help people prepare their interview based on GPT-3.5 model
 
 # Overview
-This project aims to provide a professional guidance tool for job seekers using the GPT-3.5 model. 
+This project aims to provide a professional guidance tool for job seekers using the GPT-3.5-turbo model. 
 
 The tool offers the following functions:
 - for a specific job interview: comprehensive advice on the characteristics of this job and the company.
