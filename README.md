@@ -53,4 +53,4 @@ This project suggests the potential for more sophisticated and tailored applicat
 [Links to code](app.py)
 
 # Links to video
-[overview video](https://drive.google.com/file/d/1Z_0-nYyAei59TAUIo3FXfH6U8Iz1kObL/view?usp=sharing)
+[Overview video](https://drive.google.com/file/d/1Z_0-nYyAei59TAUIo3FXfH6U8Iz1kObL/view?usp=sharing)
