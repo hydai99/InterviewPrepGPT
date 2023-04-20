@@ -1,4 +1,4 @@
-# InterviewPrepGPT: A tool using to help people prepare their interview by using gpt3.5
+# InterviewPrepGPT: A tool to help people prepare their interview based on GPT-3.5 model
 
 # Overview
 This project aims to provide a professional guidance tool for job seekers using the GPT-3.5 model. 
@@ -7,6 +7,7 @@ The tool offers the following functions:
 - for a specific job interview: comprehensive advice on the characteristics of this job and the company.
 - for a specific job position: comprehensive advice of the behavior and technical skills required.  
 - an analysis of resumes to identify strengths and weaknesses based on the user's job search requirements. 
+
 The approach includes iterative questioning and offers in-depth information to help users understand each required knowledge point thoroughly.
 
 The project leverages the power of the GPT-3.5 model and its advanced natural language processing capabilities to deliver personalized interview preparation advice that meets the user's specific needs. The tool's core functionality involves testing various prompt statements to determine the most effective prompt that will return the desired outcome. The user interface is built using Streamlit to enhance user convenience.
@@ -49,7 +50,7 @@ This project suggests the potential for more sophisticated and tailored applicat
 
 
 # Code demonstration
-[Links to code]()
+[Links to code](app.py)
 
 # Links to video
-Record a short video recording of the overview
+[overview video](https://drive.google.com/file/d/1Z_0-nYyAei59TAUIo3FXfH6U8Iz1kObL/view?usp=sharing)

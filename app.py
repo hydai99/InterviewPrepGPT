@@ -4,8 +4,7 @@ import streamlit as st
 import fitz
             
 # environment setup
-#key=st.text_input('Please input your OpenAI key')
-key='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'
+key=st.text_input('Please input your OpenAI key')
 openai.api_key=key
 
 
